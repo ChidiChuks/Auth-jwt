@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/ChidiChuks/Auth-jwt/issues"
   },
-  "homepage": "https://github.com/ChidiChuks/Auth-jwt#readme"
+  "homepage": "https://github.com/ChidiChuks/Auth-jwt#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
