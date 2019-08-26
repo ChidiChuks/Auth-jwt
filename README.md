@@ -7,3 +7,6 @@ Creating a NodeJS Authentication application with Json Web Token and BCrypt for 
 ## Dependencies & DevDependencies to install in NPM
 - `npm i expresss` to install express
 - `npm i --save-dev nodemon` as the restarter of the server
+
+## Creating the app entry file
+- creating an `index.js` file for entry into the application
